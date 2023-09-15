@@ -9,3 +9,5 @@ checkout, Tela de produto, catálogo, Home com banner
 ###### Melhorias do projetos
 
 melhoria 1, melhoria 2
+
+![Logo da Kitanda](img/app_icon.png)
